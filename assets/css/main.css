@@ -93,7 +93,7 @@ hr {
 }
 
 #story {
-    
+    margin-bottom: 10px;
 }
 
 .story-con {
@@ -117,4 +117,54 @@ hr {
     color: #333;
     font-weight: 550;
     padding-right: 50px;
+}
+
+#story_real {
+
+}
+
+.story_all {
+    position: relative;
+}
+
+.story_all-con {
+    
+}
+
+.story_all-con img {
+    height: 160px;
+    width: 140px;
+    position: absolute;
+    border-radius: 17px;
+}
+
+.add_story {
+    position: absolute;
+    background-color: blue;
+    color: white;
+    position: absolute;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    bottom: -126px;
+    left: 48px;
+    z-index: 1;
+}
+
+.maughide {
+    position: absolute;
+    background-color: rgb(197 194 194);
+    height: 55px;
+    width: 140px;
+    margin-top: 105px;
+    border-radius: 0 0 16px 16px;
+}
+
+#story_real span {
+    position: absolute;
+    width: 140px;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 130px;
+    font-weight: 550;
 }
