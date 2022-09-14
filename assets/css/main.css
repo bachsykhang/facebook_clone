@@ -95,3 +95,26 @@ hr {
 #story {
     
 }
+
+.story-con {
+    display: flex;
+}
+
+.story-tin , .story-reels {
+    margin-top: 10px;
+}
+
+.story-tin a{
+    font-size: 26px;
+    color: blue;
+    font-weight: 550;
+    border-bottom: 2px solid blue;
+    padding: 0 50px;
+}
+
+.story-reels a{
+    font-size: 26px;
+    color: #333;
+    font-weight: 550;
+    padding-right: 50px;
+}
