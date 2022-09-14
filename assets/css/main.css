@@ -1,0 +1,97 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#header {
+
+}
+
+.logo_fb {
+    height: 80px;
+    margin-left: 3%;
+}
+
+.icon_header {
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+
+.icon_header a {
+    color: black;
+}
+
+.icon_header .icon_header-i {
+    font-size: 33px;
+    border-radius:26px ;
+    border: 1px solid #e4e6eb;
+    padding: 7px;
+    background-color: #e4e6eb;
+}
+
+#bottom_header-1 {
+
+}
+
+.bottom_header-1-1 a {
+    color: black;
+}
+
+.fa-house {
+    color: blue;
+}
+
+.bottom_header-1-1 {
+    display: flex;
+    margin-top: 3%;
+}
+
+.bottom_header-1-icon {
+    font-size: 33px;
+}
+
+.anhdaidien {
+    height: 40px;
+    border-radius: 20px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #000;
+}
+
+#status {
+
+}
+
+.status-con {
+    display: flex;
+}
+
+.status-input {
+    
+    padding-left: 20px;
+    height: 35px;
+    width: 230px;
+    border-radius: 18px;
+    border: 1px solid #333;
+}
+
+.fa-photo-film {
+    font-size: 27px;
+    color: rgb(55, 225, 25);
+}
+
+.ngankhoang {
+    height: 20px;
+    width: 100%;
+    background-color: #e4e6eb;
+    margin-top: 10px;
+}
+
+#story {
+    
+}
