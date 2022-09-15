@@ -273,6 +273,18 @@ hr {
 }
 
 .baidang-down img {
-    height: 100%;
-    width: 100%;
+    max-width: 100%;
+    max-height: 360px;
+}
+
+.like_iconfb {
+    height: 20px;
+    width: 20px;
+}
+.like_iconfb-mg {
+    margin-left: 10px;
+}
+
+.baidang-down .cmt_baidang {
+    margin-left: 8%;
 }
