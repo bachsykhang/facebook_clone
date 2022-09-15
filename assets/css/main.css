@@ -71,8 +71,7 @@ hr {
     display: flex;
 }
 
-.status-input {
-    
+.status-input {    
     padding-left: 20px;
     height: 35px;
     width: 230px;
@@ -125,10 +124,13 @@ hr {
 
 .story_all {
     position: relative;
+    display: flex;
+    height: 160px;
+    overflow-x: scroll;
 }
 
 .story_all-con {
-    
+    margin: 0;
 }
 
 .story_all-con img {
@@ -136,6 +138,7 @@ hr {
     width: 140px;
     position: absolute;
     border-radius: 17px;
+    margin-left: 10px;
 }
 
 .add_story {
@@ -146,9 +149,10 @@ hr {
     padding: 10px;
     border-radius: 20px;
     font-size: 20px;
-    bottom: -126px;
+    bottom: 35px;
     left: 48px;
     z-index: 1;
+    margin-left: 10px;
 }
 
 .maughide {
@@ -158,6 +162,7 @@ hr {
     width: 140px;
     margin-top: 105px;
     border-radius: 0 0 16px 16px;
+    margin-left: 10px;
 }
 
 #story_real span {
@@ -167,4 +172,48 @@ hr {
     font-size: 17px;
     margin-top: 130px;
     font-weight: 550;
+    margin-left: 6px;
+}
+
+.story_all-con-rieng {
+
+}
+
+.story_all-con-rieng img {
+    height: 160px;
+    width: 140px;
+    position: absolute;
+    border-radius: 17px;
+    margin-left: 95px;
+}
+
+.story_all-con-rieng .story_user {
+    margin-left: 140px;
+    height: 50px;
+    width: 50px;
+    border-radius: 99px;
+    border: 2px solid blue;
+    margin-top: 15px;
+}
+
+#story_real .story_all-con-rieng .text-story {
+    margin-left: 88px;
+    color: red;
+}
+
+#story_real .story_all-con-rieng .text-story1 {
+    margin-left: 113px;
+    color: red;
+}
+
+#story_real .phamhuyhoang-mini {
+    margin-left: 45%;
+}
+
+#story_real .story_user-1 {
+    margin-left: 31%;
+}
+
+#story_real .story_user-2 {
+    margin-left: 38%;
 }
