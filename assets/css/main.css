@@ -277,14 +277,14 @@ hr {
     max-height: 360px;
 }
 
-.like_iconfb {
+#baidang .like_iconfb {
     height: 20px;
     width: 20px;
 }
-.like_iconfb-mg {
+#baidang .like_iconfb-mg {
     margin-left: 10px;
 }
 
-.baidang-down .cmt_baidang {
+#baidang .baidang-down .cmt_baidang {
     margin-left: 8%;
 }
