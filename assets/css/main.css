@@ -202,7 +202,12 @@ hr {
 }
 
 #story_real .story_all-con-rieng .text-story1 {
-    margin-left: 113px;
+    margin-left: 30%;
+    color: red;
+}
+
+#story_real .story_all-con-rieng .text-story2 {
+    margin-left: 35%;
     color: red;
 }
 
@@ -211,9 +216,63 @@ hr {
 }
 
 #story_real .story_user-1 {
-    margin-left: 31%;
+    margin-left: 30%;
 }
 
 #story_real .story_user-2 {
-    margin-left: 38%;
+    margin-left: 36%;
+}
+
+#story_real .avt_str_mausac {
+    margin-left: 46%;
+}
+
+#baidang {
+
+}
+
+.baidang_tongthe {
+    display: flex;
+}
+
+.baidang_tongthe li {
+    list-style: none;
+    margin: 0;
+}
+
+.baidang_logo {
+    height: 55px;
+    width: 55px;
+    border-radius: 30px;
+    border: 1px solid #333;
+    margin: 10px 10px;
+}
+
+.baidang_nameuser {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.baidang_time {
+    font-size: 19px;
+}
+
+.baidang_daux {
+    font-size: 37px;
+    text-align: end;
+    width: 180px;
+}
+
+.baidang_daux .fa-ellipsis {
+    padding-right: 36px;
+}
+
+.baidang-down span {
+    font-size: 20px;
+}
+
+.baidang-down img {
+    height: 100%;
+    width: 100%;
 }
