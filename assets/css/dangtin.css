@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#header .row {
+    display: flex;
+}
+
+#header .back-header {
+    font-size: 40px;
+}
+
+#header .back-header i {
+    color: black;
+    margin: 20px 0 0 20px;
+}
+
+#header .upcmt-header {
+    font-size: 30px;
+    line-height: 80px;
+}
+
+#header .dangtin-header button {
+    height: 40px;
+    width: 70px;
+    margin: 20px 0 0 30px;
+}

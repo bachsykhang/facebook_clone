@@ -314,3 +314,11 @@ hr {
 .like-cmt-share .fa-share {
     margin-right: 5px;
 }
+
+#baidang .baidang-down .like-thuoctinh:hover {
+    color: blue;
+}
+
+#baidang .like-thuoctinh:hover {
+    cursor: pointer;
+}
