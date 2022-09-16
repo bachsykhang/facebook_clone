@@ -61,5 +61,47 @@
 }
 
 #thanhphanphu-add {
-    
+    margin: 40% 0 0 15px;
+}
+
+#thanhphanphu-add li {
+    list-style: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#thanhphanphu-add span {
+    font-size: 19px;
+    margin-left: 10px;
+}
+
+#thanhphanphu-add .fa-user-tag {
+    font-size: 27px;
+    color: blue;
+}
+
+#thanhphanphu-add .fa-face-smile {
+    font-size: 27px;
+    color: yellow;
+}
+
+#thanhphanphu-add .fa-location-dot {
+    font-size: 27px;
+    color: red;
+    margin-right: 6px;
+}
+
+#thanhphanphu-add .fa-video {
+    font-size: 27px;
+    color: red;
+}
+
+#thanhphanphu-add .fa-a {
+    font-size: 27px;
+    color: blue;
+}
+
+#thanhphanphu-add .fa-camera {
+    font-size: 27px;
+    color: blue;
 }
