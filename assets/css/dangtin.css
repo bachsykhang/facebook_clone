@@ -28,3 +28,38 @@
     width: 70px;
     margin: 20px 0 0 30px;
 }
+
+#duoi-header {
+    display: flex;
+}
+
+#duoi-header img{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border: 1px solid black;
+    margin: 10px 0 0 10px;
+}
+
+#duoi-header .duoi-header-tenrieng {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 22px 0 0 14px;
+}
+
+#duoi-header-input input {
+    width: 100%;
+    border: none;
+    font-size: 23px;
+    height: 40px;
+    margin: 10px 0px 0 13px;
+}
+
+#duoi-header-input input:focus {
+    border: none;
+    outline: none;
+}
+
+#thanhphanphu-add {
+    
+}
