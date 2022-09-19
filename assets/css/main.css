@@ -261,7 +261,11 @@ hr {
 .baidang_daux {
     font-size: 37px;
     text-align: end;
-    width: 180px;
+    width: 140px;
+}
+
+.baidang_daux-buffmg {
+    margin-left: 30px;
 }
 
 .baidang_daux .fa-ellipsis {
@@ -321,4 +325,8 @@ hr {
 
 #baidang .like-thuoctinh:hover {
     cursor: pointer;
+}
+
+#js_upbai {
+    display: none;
 }
