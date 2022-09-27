@@ -1,0 +1,71 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.house-color {
+    color: black;
+}
+
+.user-color {
+    color: blue;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.friend-hd {
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    margin-left: 10px;
+    margin-right: 45%;
+}
+
+.icon_header-i {
+    font-size: 33px;
+    border-radius: 26px;
+    border: 1px solid #e4e6eb;
+    padding: 7px;
+    background-color: #e4e6eb;
+}
+
+#header a {
+    color: black;
+}
+
+#header .row {
+    display: flex;
+}
+
+#loimoi {
+    margin-top: 10px;
+}
+
+#loimoi .row {
+    display: flex;
+}
+
+.loimoi-con {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.banbe-con {
+    margin: 0;
+}
+
+#loimoi a {
+    color: black;
+    font-size: 16px;
+    font-weight: 550;
+}
+
+.loimoi-a {
+    background-color: #e4e6eb;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
